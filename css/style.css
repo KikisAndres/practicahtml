@@ -1,3 +1,17 @@
 #left{
 	float: left;
+	list-style: none;
+}
+
+table, th, td{
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+
+th{
+	padding: 2rem;
+}
+
+td{
+	padding: 2rem;
 }
